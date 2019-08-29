@@ -2,8 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>Impworks.BotRunner</AssemblyName>
     <RootNamespace>Impworks.BotRunner</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Impworks</Authors>
+    <Company />
+    <Product>Impworks.BotRunner</Product>
+    <PackageProjectUrl>https://github.com/impworks/botrunner</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/impworks/botrunner</RepositoryUrl>
+    <PackageTags>telegram, telegram bot, framework</PackageTags>
+    <Description>Tiny framework for programming Telegram Bots.</Description>
+    <PackageId>Impworks.BotRunner</PackageId>
+    <AssemblyName>Impworks.BotRunner</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
